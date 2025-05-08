@@ -1,8 +1,8 @@
 <h1 align="center">🕶️ RamaFounderNCS</h1>
-<h3 align="center">Founder of NEWBIE CYBER SECURITY | Cyber Threat Analyst | Red Teamer | Underground Ops</h3>
+<h3 align="center">FOUNDER NEWBIE CYBER SECURITY</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Researcher;Pentester+%7C+Bug+Bounty+Hunter;Reverse+Engineer+%7C+Python+Automator;Always+Learning+%7C+Always+Testing&center=true&width=600&height=40&color=FF007F&vCenter=true&size=20">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=NEWBIE+CYBER+SECURITY;Pentester+%7C+Bug+Bounty+Hunter;Reverse+Engineer+%7C+Python+Automator;Always+Learning+%7C+Always+Testing&center=true&width=600&height=40&color=FF007F&vCenter=true&size=20">
 </p>
 
 <p align="center">
