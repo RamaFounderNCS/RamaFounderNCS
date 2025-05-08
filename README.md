@@ -27,3 +27,12 @@ based_in: Indonesia
 languages: [Python, Bash, PHP, JavaScript]
 status: Active
 availability: Freelance, Training, Collaboration
+Tiktok: [@offcncs](https://www.tiktok.com/@offcncs)
+Instagram: [@offcncs](https://www.instagram.com/offcncs)
+Facebook: [NEWBIE CYBER SECURITY](https://facebook.com/groups/632077237669216/)
+Bloggers: [NEWBIE CYBER SECURITY](https://offcncs.blogspot.com/)
+Zone Xsec: [NEWBIE CYBER SECURITY](https://zone-xsec.com/archive/team/NEWBIE+CYBER+SECURITY)
+Haxor.id: [NEWBIE CYBER SECURITY](https://haxor.id/archive/team/NEWBIE+CYBER+SECURITY)
+Gmail: [offcncs@gmail.com](offcncs@gmail.com)
+WhatsApp: [Rama Founder NEWBIE CYBER SECURITY](+6283846681933)
+
