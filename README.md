@@ -1,6 +1,6 @@
 <h1 align="center">🕶️ RamaFounderNCS</h1>
 <h3 align="center">FOUNDER NEWBIE CYBER SECURITY</h3>
-<img src="https://raw.githubusercontent.com/RamaFounderNCS/RamaFounderNCS/main/assets/hacker-banner.jpg" alt="Hacker Banner" />
+<img src="hacker-banner.jpg" alt="Hacker Banner" />
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=NEWBIE+CYBER+SECURITY;Pentester+%7C+Bug+Bounty+Hunter;Reverse+Engineer+%7C+Python+Automator;Always+Learning+%7C+Always+Testing&center=true&width=600&height=40&color=FF007F&vCenter=true&size=20">
 </p>
