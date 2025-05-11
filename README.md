@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RamaFounderNCS/RamaFounderNCS/main/assets/ncs-logo.png" alt="Newbie Cyber Security Logo" width="200"/>
+  <img src="https://i.ibb.co.com/fGrpygCT/IMG-20250509-WA0025.jpg" alt="Newbie Cyber Security Logo" width="200"/>
 </p>
 
 # 👋 Halo, Saya Rama - Founder NCS (Newbie Cyber Security)
