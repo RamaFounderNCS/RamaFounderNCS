@@ -1,38 +1,42 @@
-<h1 align="center">🕶️ RamaFounderNCS</h1>
-<h3 align="center">FOUNDER NEWBIE CYBER SECURITY</h3>
-<img src="hacker-banner.jpg" alt="Hacker Banner" />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=NEWBIE+CYBER+SECURITY;Pentester+%7C+Bug+Bounty+Hunter;Reverse+Engineer+%7C+Python+Automator;Always+Learning+%7C+Always+Testing&center=true&width=600&height=40&color=FF007F&vCenter=true&size=20">
+  <img src="https://raw.githubusercontent.com/RamaFounderNCS/RamaFounderNCS/main/assets/ncs-logo.png" alt="Newbie Cyber Security Logo" width="200"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-Elite-blue?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-Master-critical?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLi-Breaker-lightgrey?style=for-the-badge&logo=sqlite" />
-  <img src="https://img.shields.io/badge/Python-Automation-green?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/BurpSuite-Pro-orange?style=for-the-badge" />
-</p>
+# 👋 Halo, Saya Rama - Founder NCS (Newbie Cyber Security)
+
+Selamat datang di profil GitHub saya! Saya adalah seorang pengembang dan pendiri komunitas **Newbie Cyber Security**. Saya suka bereksperimen dengan berbagai teknologi, membuat alat online, dan membangun komunitas edukatif di bidang keamanan siber.
+
+## 🚀 Proyek Unggulan
+
+Berikut adalah beberapa proyek yang saya kembangkan:
+
+- [**Newbie Cyber Security Website**](https://newbiecybersecuirty.hec.to/)  
+  Website komunitas cyber security dengan informasi, galeri, dan link penting untuk para pemula.
+
+- [**Web Bot Nulis Online**](https://webbotnulis.ix.tc/)  
+  Aplikasi berbasis web yang membantu menulis otomatis dengan tampilan mirip tulisan tangan.
+
+- [**Linktree NCS**](https://like.nex.sh/)  
+  Halaman tautan semua proyek dan sosial media Newbie Cyber Security.
+
+## 🛠️ Teknologi & Alat
+
+Saya menggunakan berbagai teknologi berikut dalam pengembangan proyek saya:
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js, PHP (dasar)
+- **Tools**: Git, GitHub, Blogger, Cloudflare
+
+## 📫 Kontak
+
+- **Email**: [offcncs@gmail.com](mailto:offcncs@gmail.com)  
+- **WhatsApp**: [+6283846681933](https://wa.me/6283846681933)  
+- **Website**: [https://offcncs.blogspot.com/](https://offcncs.blogspot.com/)
+
+## 📈 Statistik GitHub
+
+![Statistik GitHub Rama](https://github-readme-stats.vercel.app/api?username=RamaFounderNCS&show_icons=true&theme=radical)
 
 ---
 
-## 🧠 Tentang Saya
-
-> Seorang penjelajah sistem, pemburu kerentanan, dan mentor bagi pemula di dunia siber.
-
-```yaml
-alias: RamaFounderNCS
-role: Hacker Profesional | Ethical Pentester | Underground Security Ops
-founder: NEWBIE CYBER SECURITY
-based_in: Indonesia
-languages: [Python, Bash, PHP, JavaScript]
-status: Active
-availability: Freelance, Training, Collaboration
-Tiktok: [@offcncs](https://www.tiktok.com/@offcncs)
-Instagram: [@offcncs](https://www.instagram.com/offcncs)
-Facebook: [NEWBIE CYBER SECURITY](https://facebook.com/groups/632077237669216/)
-Bloggers: [NEWBIE CYBER SECURITY](https://offcncs.blogspot.com/)
-Zone Xsec: [NEWBIE CYBER SECURITY](https://zone-xsec.com/archive/team/NEWBIE+CYBER+SECURITY)
-Haxor.id: [NEWBIE CYBER SECURITY](https://haxor.id/archive/team/NEWBIE+CYBER+SECURITY)
-Gmail: [offcncs@gmail.com](offcncs@gmail.com)
-WhatsApp: [Rama Founder NEWBIE CYBER SECURITY](+6283846681933)
-
+Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menjelajahi repositori saya dan memberi bintang jika Anda suka salah satu proyek saya.
