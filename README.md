@@ -16,8 +16,8 @@ Berikut adalah beberapa proyek yang saya kembangkan:
 - [**Web Bot Nulis Online**](https://webbotnulis.ix.tc/)  
   Aplikasi berbasis web yang membantu menulis otomatis dengan tampilan mirip tulisan tangan.
 
-- [**Linktree NCS**](https://like.nex.sh/)  
-  Halaman tautan semua proyek dan sosial media Newbie Cyber Security.
+- [**Script Deface Generator**](https://toolsdefacegenerator.hs.vc/)  
+ Adalah alat berbasis web yang memungkinkan pengguna membuat halaman deface dengan cepat dan mudah melalui antarmuka visual. Proyek ini dibuat untuk keperluan edukasi dalam bidang keamanan web dan pengujian penetrasi secara legal dan etis..
 
 ## 🛠️ Teknologi & Alat
 
