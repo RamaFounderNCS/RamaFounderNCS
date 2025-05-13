@@ -17,7 +17,10 @@ Berikut adalah beberapa proyek yang saya kembangkan:
   Aplikasi berbasis web yang membantu menulis otomatis dengan tampilan mirip tulisan tangan.
 
 - [**Script Deface Generator**](https://toolsdefacegenerator.hs.vc/)  
- Adalah alat berbasis web yang memungkinkan pengguna membuat halaman deface dengan cepat dan mudah melalui antarmuka visual. Proyek ini dibuat untuk keperluan edukasi dalam bidang keamanan web dan pengujian penetrasi secara legal dan etis..
+ Script Deface Generator adalah alat berbasis web yang memungkinkan pengguna membuat halaman deface dengan cepat dan mudah melalui antarmuka visual. Proyek ini dibuat untuk keperluan edukasi dalam bidang keamanan web dan pengujian penetrasi secara legal dan etis.
+
+- [**Script Deface N.C.S**](https://scriptdefacencs.pii.at/)  
+ Script deface sederhana berbasis HTML yang dibuat oleh komunitas **Newbie Cyber Security (NCS)**. Script ini ditujukan untuk latihan dan edukasi keamanan siber di lingkungan yang legal dan bertanggung jawab.
 
 ## 🛠️ Teknologi & Alat
 
