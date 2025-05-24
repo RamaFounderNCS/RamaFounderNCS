@@ -1,38 +1,32 @@
-<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="50%" stop-color="#ff0000"/>
-      <stop offset="50%" stop-color="#ffffff"/>
-    </linearGradient>
-    <style>
-      .title { font-family: 'Courier New', monospace; font-size: 36px; fill: #fff; font-weight: bold; }
-      .subtitle { font-family: 'Courier New', monospace; font-size: 20px; fill: #fff; }
-      .copyright { font-family: 'Courier New', monospace; font-size: 16px; fill: #ccc; }
-    </style>
-  </defs>
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg" style="background:#0a0a0a">
+  <!-- Naga -->
+  <circle cx="300" cy="200" r="80" fill="#2e7d32" />
+  <path d="M240,200 Q200,180 220,160 Q240,140 260,160" fill="#2e7d32"/>
+  <path d="M360,200 Q400,180 380,160 Q360,140 340,160" fill="#2e7d32"/>
+  
+  <!-- Kacamata -->
+  <rect x="260" y="180" width="30" height="15" fill="black"/>
+  <rect x="310" y="180" width="30" height="15" fill="black"/>
+  <line x1="290" y1="188" x2="310" y2="188" stroke="black" stroke-width="3"/>
 
-  <!-- Background merah putih -->
-  <rect width="800" height="800" fill="url(#bg)" />
+  <!-- Jas -->
+  <rect x="240" y="280" width="120" height="160" fill="black"/>
+  <polygon points="240,280 300,320 360,280" fill="black"/>
 
-  <!-- Garuda simbolik (perisai dan sayap) -->
-  <g transform="translate(400, 300)">
-    <!-- Sayap kiri -->
-    <path d="M -150 -50 C -200 -100, -250 -150, -150 -200" fill="#d4af37" opacity="0.8"/>
-    <!-- Sayap kanan -->
-    <path d="M 150 -50 C 200 -100, 250 -150, 150 -200" fill="#d4af37" opacity="0.8"/>
-    <!-- Perisai tengah -->
-    <rect x="-40" y="-80" width="80" height="120" rx="10" fill="#000" stroke="#ffd700" stroke-width="4"/>
-    <!-- Bhinneka Tunggal Ika pita -->
-    <path d="M -120 50 Q 0 90 120 50" fill="none" stroke="#d4af37" stroke-width="5"/>
-    <text x="0" y="70" text-anchor="middle" font-size="18" fill="#000" font-weight="bold">BHINNEKA TUNGGAL IKA</text>
-  </g>
+  <!-- Dasi Merah -->
+  <polygon points="295,280 305,280 310,320 290,320" fill="red"/>
 
-  <!-- Judul komunitas -->
-  <text x="400" y="500" text-anchor="middle" class="title">NEWBIE CYBER SECURITY</text>
+  <!-- Koper -->
+  <rect x="180" y="370" width="60" height="50" fill="black" rx="5" />
+  <rect x="195" y="360" width="30" height="10" fill="black" rx="2" />
 
-  <!-- Nomor WhatsApp -->
-  <text x="400" y="540" text-anchor="middle" class="subtitle">WhatsApp: 6283846681933</text>
+  <!-- Sniper Beretta -->
+  <rect x="370" y="190" width="160" height="10" fill="#444"/>
+  <rect x="370" y="190" width="20" height="50" fill="#222"/>
+  <circle cx="530" cy="195" r="5" fill="#999"/>
 
-  <!-- Copyright -->
-  <text x="400" y="580" text-anchor="middle" class="copyright">© RamaFounderNCS</text>
+  <!-- Teks -->
+  <text x="50%" y="550" fill="white" font-size="28" font-family="Arial" font-weight="bold" text-anchor="middle">
+    NEWBIE CYBER SECURITY
+  </text>
 </svg>
