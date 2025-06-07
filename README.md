@@ -1,5 +1,5 @@
 
-<h1 align="center">🌐 Rama — Elite Cybersecurity Engineer | Founder of NCS (Newbie Cyber Security)</h1>
+<h1 align="center">🌐 RamaFounderNCS (MR.M05T3R) | Founder Of NCS (Newbie Cyber Security)</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge" />
@@ -28,9 +28,9 @@ I'm **Rama**, founder of the international initiative **Newbie Cyber Security (N
 | Project | Description | Status |
 |--------|-------------|--------|
 | [🔥 ShellNCS](https://github.com/RamaFounderNCS/ShellNCS) | All-in-one elite PHP webshell for ethical testing. Dark UI, file manager, encryption, access control & more. | 🚧 In Development |
-| [🩸 Deface Tools](https://github.com/RamaFounderNCS/Deface-Tools) | Educational toolkit showcasing web defacement and protection strategies. | ✅ Stable |
-| [🕳️ Script Defacer](https://github.com/RamaFounderNCS/Script-Defacer) | Simplified scripts for training and defense simulations. | ✅ Stable |
-| [🌐 NCS Panel](https://github.com/RamaFounderNCS) | Web-based security operations panel with file management, IP blocking, logs, ZIP utility. | 🚀 Ongoing |
+| [🩸 Deface Tools](https://github.com/RamaFounderNCS/toolsdefacegenerator.hs.vc) | Educational toolkit showcasing web defacement and protection strategies. | ✅ Stable |
+| [🕳️ CSRF IAD](https://github.com/RamaFounderNCS/csrfinformasiarsipdigital.cbu.net) | Simplified scripts for training and defense simulations. | ✅ Stable |
+| [🌐 NCS Website](https://github.com/RamaFounderNCS/newbiecybersecuirty.hec.to) | Web-based security operations panel with file management, IP blocking, logs, ZIP utility. | 🚀 Ongoing |
 
 ---
 
