@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/banner-ncs.png" alt="NEWBIE CYBER SECURITY" />
+  <img src="ramafounderncs.png" alt="NEWBIE CYBER SECURITY" />
 </p>
 
 <h1 align="center">🔥 RamaFounderNCS 🔥</h1>
@@ -40,9 +40,9 @@ I am **RamaFounderNCS**, passionate about cybersecurity, ethical hacking, and de
 ### 🔗 Social Media & Contact
 
 - **TikTok**:
-  - [@offcncs](https://www.tiktok.com/@offcncs)
-  - [@offcncs01](https://www.tiktok.com/@offcncs01)
-  - [@st0ry053](https://www.tiktok.com/@st0ry053)
+- [@offcncs](https://www.tiktok.com/@offcncs)
+- [@offcncs01](https://www.tiktok.com/@offcncs01)
+- [@st0ry053](https://www.tiktok.com/@st0ry053)
 - **Instagram**: [@offcncs](https://www.instagram.com/offcncs)
 - **Facebook Group**: [NCS Official Group](https://facebook.com/groups/632077237669216/)
 - **GitHub**: [RamaFounderNCS](https://github.com/RamaFounderNCS)
