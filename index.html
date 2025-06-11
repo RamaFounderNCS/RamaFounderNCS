@@ -15,13 +15,15 @@
       box-sizing: border-box;
       font-family: 'Orbitron', 'Share Tech Mono', monospace;
     }
+    html {
+      scroll-behavior: smooth;
+    }
     body {
       background: linear-gradient(to bottom, #000000, #050505, #101010);
       color: #d0fdfd;
       line-height: 1.6;
       padding: 0;
       overflow-x: hidden;
-      scroll-behavior: smooth;
     }
     header {
       text-align: center;
@@ -29,8 +31,6 @@
       background: #000000;
       border-bottom: 3px solid #00ffe1;
       box-shadow: 0 0 30px rgba(0,255,204,0.25);
-      position: relative;
-      z-index: 1;
       background-image: url('https://images.unsplash.com/photo-1604079628041-9438a1fdb6c1?fit=crop&w=1500&q=80');
       background-size: cover;
       background-blend-mode: multiply;
@@ -116,6 +116,13 @@
     @media (max-width: 600px) {
       header h1 {
         font-size: 2.5rem;
+      }
+      section {
+        padding: 20px;
+        margin: 30px 10px;
+      }
+      .social ul {
+        grid-template-columns: 1fr;
       }
     }
   </style>
