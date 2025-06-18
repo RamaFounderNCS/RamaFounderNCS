@@ -3,43 +3,64 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="NEWBIE CYBER SECURITY - Profesional Hacker Site">
+  <meta name="robots" content="index, follow">
   <meta name="author" content="MR.M05T3R">
-  <title>NEWBIE CYBER SECURITY</title>
+  <meta name="description" content="NEWBIE CYBER SECURITY - Modern Hacker Elite Platform. Explore cybersecurity from beginner to pro.">
+  <meta name="keywords" content="Cyber Security, Hacker, Ethical Hacking, Web Security, NEWBIE CYBER SECURITY">
+  <title>NEWBIE CYBER SECURITY - Hacker Elite Platform</title>
   <style>
+    /* Reset & Global */
     * {
       margin: 0;
       padding: 0;
-      scroll-behavior: smooth;
       box-sizing: border-box;
-      font-family: 'Courier New', monospace;
+      scroll-behavior: smooth;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
 
     body {
-      background: #000;
-      color: #00ffcc;
+      background-color: #0d0d0d;
+      color: #e0f7fa;
+      line-height: 1.6;
       text-align: center;
-      overflow-x: hidden;
+    }
+
+    a {
+      color: #00e5ff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
     }
 
     header {
-      height: 100vh;
-      background: url('https://i.ibb.co/dsMSfPqj/056.png') center/contain no-repeat;
+      min-height: 100vh;
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      background-color: #000;
+      background: linear-gradient(to bottom, #000000, #0d0d0d);
+      background-image: url('https://i.ibb.co/dsMSfPqj/056.png');
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: 160px;
+      padding-top: 150px;
     }
 
-    h1 {
-      font-size: 3em;
-      text-shadow: 0 0 10px #0ff;
+    header h1 {
+      font-size: 2.8em;
+      color: #00ffc3;
       margin-top: 20px;
+      text-shadow: 0 0 10px #00e5ff;
     }
 
     section {
       padding: 60px 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
     }
 
     .parallax {
@@ -47,6 +68,7 @@
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
+      position: relative;
     }
 
     .parallax1 {
@@ -57,49 +79,45 @@
       background-image: url('https://i.ibb.co/ZM7RbNf/hack3.jpg');
     }
 
-    .content {
-      background-color: rgba(0, 0, 0, 0.8);
-      padding: 40px 20px;
-      border-radius: 12px;
-      margin: 0 auto;
+    .overlay {
+      background: rgba(0, 0, 0, 0.75);
+      padding: 40px;
       max-width: 900px;
-      box-shadow: 0 0 25px #0ff;
+      border-radius: 16px;
+      box-shadow: 0 0 30px #00ffc3;
+      backdrop-filter: blur(4px);
     }
 
-    .content h2 {
-      color: #00ffff;
+    .overlay h2 {
+      font-size: 2em;
       margin-bottom: 20px;
+      color: #00e5ff;
     }
 
-    .content p {
-      color: #ccc;
+    .overlay p {
       font-size: 1.1em;
-      line-height: 1.6em;
+      color: #cccccc;
     }
 
     footer {
-      background: #000;
+      background-color: #000;
       padding: 20px 10px;
-      color: #0ff;
       font-size: 0.9em;
+      color: #00ffc3;
     }
 
-    a {
-      color: #0ff;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    @media (max-width: 768px) {
-      h1 {
+    @media screen and (max-width: 768px) {
+      header h1 {
         font-size: 2em;
+        padding: 0 10px;
       }
 
-      .content {
-        padding: 30px 15px;
+      .overlay {
+        padding: 25px 20px;
+      }
+
+      .overlay h2 {
+        font-size: 1.5em;
       }
     }
   </style>
@@ -111,28 +129,28 @@
   </header>
 
   <section class="parallax parallax1">
-    <div class="content">
-      <h2>About Us</h2>
+    <div class="overlay">
+      <h2>About NEWBIE CYBER SECURITY</h2>
       <p>
-        NEWBIE CYBER SECURITY is a digital collective built by aspiring cyber warriors.<br>
-        We explore, learn, and master cybersecurity from beginner to elite.<br><br>
-        ⚡ Stay updated. Stay anonymous. Stay secure. ⚡
+        Kami adalah komunitas cyber security berbasis edukasi, eksplorasi, dan eksperimen.<br />
+        Belajar dari dasar hingga elite — dengan misi membentuk generasi hacker etis profesional.<br /><br />
+        🔐 Belajar. 🔍 Eksplor. ⚔️ Aman.
       </p>
     </div>
   </section>
 
   <section class="parallax parallax2">
-    <div class="content">
+    <div class="overlay">
       <h2>Contact Admin</h2>
       <p>
-        Need help or want to join the community?<br>
-        Contact: <a href="mailto:offcncs@gmail.com">offcncs@gmail.com</a>
+        Untuk kolaborasi, pertanyaan, atau ingin bergabung?<br />
+        Hubungi langsung: <a href="mailto:offcncs@gmail.com">offcncs@gmail.com</a>
       </p>
     </div>
   </section>
 
   <footer>
-    <p>&copy; 2025 NEWBIE CYBER SECURITY — Built with pride by <strong>MR.M05T3R</strong></p>
+    <p>&copy; 2025 NEWBIE CYBER SECURITY — Designed by <strong>MR.M05T3R</strong></p>
   </footer>
 
 </body>
