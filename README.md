@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="ramafounderncs.png" alt="NEWBIE CYBER SECURITY" />
+  <img src="NCSID.jpg" alt="NEWBIE CYBER SECURITY" />
 </p>
 
 <h1 align="center">🔥 RamaFounderNCS 🔥</h1>
