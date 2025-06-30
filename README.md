@@ -46,7 +46,6 @@ I am **RamaFounderNCS**, passionate about cybersecurity, ethical hacking, and de
 - **Instagram**: [@offcncs](https://www.instagram.com/offcncs)
 - **Facebook Group**: [NCS Official Group](https://facebook.com/groups/632077237669216/)
 - **GitHub**: [RamaFounderNCS](https://github.com/RamaFounderNCS)
-- **Blogspot**: [offcncs.blogspot.com](https://offcncs.blogspot.com/)
 - **Zone-Xsec Archive**: [NEWBIE CYBER SECURITY](https://zone-xsec.com/archive/team/NEWBIE+CYBER+SECURITY)
 - **Haxor.ID Archive**: [NEWBIE CYBER SECURITY](https://haxor.id/archive/team/NEWBIE+CYBER+SECURITY)
 - **Email**: [offcncs@gmail.com](mailto:offcncs@gmail.com)
